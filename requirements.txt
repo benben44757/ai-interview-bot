@@ -1,0 +1,9 @@
+openai
+
+elevenlabs
+
+python-dotenv
+
+flask
+
+audio processing libraries
